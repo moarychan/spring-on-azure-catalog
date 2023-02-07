@@ -1,0 +1,19 @@
+---
+project-repositories:
+  - name: "web"
+    description: "Hello, World RESTful web service."
+    url: "https://github.com/moarychan/rest-service"
+    tags:
+      - "boot 2.7.x"
+      - "rest"
+      - "web"
+  - name: "keyvault"
+    description: "How to load Secrets from Azure Key Vault to Property Source"
+    url: "https://github.com/moarychan/sca-property-source.git"
+    tags:
+      - "Keyvault property source"
+  - name: "passwordless-mysql"
+    description: "Store and retrieve data in Azure Database for MySQL"
+    url: "https://github.com/moarychan/sca-passwordless-mysql"
+    tags:
+      - "passwordless-mysql"
