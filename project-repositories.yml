@@ -1,6 +1,6 @@
 ---
 project-repositories:
-  - name: "web"
+  - name: "azure-web"
     description: "Hello, World RESTful web service."
     url: "https://github.com/moarychan/rest-service"
     tags:
